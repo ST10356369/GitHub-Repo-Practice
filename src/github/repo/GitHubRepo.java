@@ -4,17 +4,14 @@
  */
 package github.repo;
 
-/**
- *
- * @author marcu
- */
+ //@author ST10356369@vcconnect.edu.za - Marcus McDowall
+
 public class GitHubRepo
 {
 
-
     public static void main(String[] args)
     {
-        // TODO code application logic here
+
     }
     
 }
